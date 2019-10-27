@@ -6,7 +6,7 @@ Make a new directory for the project, change into that directory and run the com
 
 Once it has finished change into pure-coder-AurigaTest directory and run "mvn spring-boot:run"
 
-On a different shell change directory into the 'app' of the project 'directory pure-coder-AurigaTest>app' and run "npm install"
+On a different shell change directory into the 'app' directory of the project 'directory should be pure-coder-AurigaTest>app' and run "npm install"
 
 Once that has finished run "npm start"
 
